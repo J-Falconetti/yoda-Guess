@@ -1,0 +1,39 @@
+body {
+    color: lime
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 30px;
+}
+body {
+    color: limegreen;
+    font-family: 'Patrick Hand SC', cursive;
+    background-image: url('../images/bround.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%, 100%;
+}
+.spacer50 { 
+    height: 50px;
+     width: 100%;
+    font-size: 0;
+     margin: 0;
+     padding: 0;
+     border: 0;
+     display: block;
+     }
+
+     .spacer25 { 
+        height: 25px;
+         width: 100%;
+        font-size: 0;
+         margin: 0;
+         padding: 0;
+         border: 0;
+         display: block;
+         }
+         .winloss{
+             font-size: 25px;
+         }
+         
